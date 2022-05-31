@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: initial;
+}
+
+/* nav */
+.header{
+  background-color: #cecaca87;
+}
+
+.nav_list{
+	display: flex;
+	justify-content: flex-start;
+	padding: 20px 10px;
+	column-gap: 40px;
+	font-weight: 600;
+}
+
+.pagination{
+  margin-top: 20px;
+}
+
+.box{
+  padding: 50px 0;
+  text-align: center;
+}

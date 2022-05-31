@@ -1,0 +1,74 @@
+{
+  "clients": [
+    {
+      "name": "Dr. Jackie Smith",
+      "avatar": "http://loremflickr.com/640/480/people",
+      "country": "Slovenia",
+      "phone": "350.312.6111",
+      "job": "Liaison",
+      "id": 2
+    },
+    {
+      "name": "Mike Weimann",
+      "avatar": "http://loremflickr.com/640/480/people",
+      "country": "Samoa",
+      "phone": "(826) 265-9700 x79634",
+      "job": "Consultant",
+      "id": 3
+    },
+    {
+      "name": "Colleen Kuphal",
+      "avatar": "http://loremflickr.com/640/480/people",
+      "country": "Egypt",
+      "phone": "(732) 454-3972",
+      "job": "Consultant",
+      "id": 4
+    },
+    {
+      "name": "Frank Bergnaumr43r34",
+      "avatar": "http://loremflickr.com/640/480/people",
+      "country": "Slovenia",
+      "phone": "(309) 498-3996 x289",
+      "job": "Liaison",
+      "id": 6
+    },
+    {
+      "name": "Pearl Quigley",
+      "avatar": "http://loremflickr.com/640/480/people",
+      "country": "Guatemala",
+      "phone": "315-497-8316 x7505",
+      "job": "Director",
+      "id": 11
+    },
+    {
+      "name": "Mr. Angel Kohler",
+      "avatar": "http://loremflickr.com/640/480/people",
+      "country": "Cyprus",
+      "phone": "615.314.0657 x951",
+      "Job": "Orchestrator",
+      "id": 12
+    },
+    {
+      "name": "Hope Labadie",
+      "avatar": "http://loremflickr.com/640/480/people",
+      "country": "Cook Islands",
+      "phone": "(848) 534-5603",
+      "job": "Supervisor",
+      "id": 13
+    },
+    {
+      "name": "June Cassin",
+      "avatar": "http://loremflickr.com/640/480/people",
+      "country": "Macedonia",
+      "phone": "844.952.3675 x66712",
+      "job": "Coordinator",
+      "id": 14
+    }
+  ],
+  "users": [
+    {
+      "username": "admin@admin.com",
+      "password": "admin"
+    }
+  ]
+}
